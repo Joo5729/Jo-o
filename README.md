@@ -1,2 +1,2 @@
-# Jo-o
+# João
 Este é meu primeiro projeto no GitHub
